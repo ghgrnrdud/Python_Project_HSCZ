@@ -51,10 +51,10 @@
 ## 🔎결과
 이 모델을 통한 최종 시스템 : 사용자가 수출입 하고자하는 제품의 설명을 입력하면 모델을 통해 제품의 설명과 가장 유사한 HS 코드 3가지를 예측하고 순위를 매겨 사용자에게 추천하는 시스템
 <p>
-  <img src="https://github.com/ghgrnrdud/Python_Project_HSCZ/assets/153475197/431aeee2-19ad-4ac9-8480-ce87256296ab" width="500" height="300">
+  <img src="https://github.com/ghgrnrdud/Python_Project_HSCZ/assets/153475197/431aeee2-19ad-4ac9-8480-ce87256296ab" width="500" height="250">
 </p>
 <br>
 
 # 개발 기간 & 인원
-> 2024.04 ~ 2024.05 <br>
+> 2023.12 ~ 2024.01 <br>
 > 이현서, 오지현, 심세현, 전하늘, 강민서
