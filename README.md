@@ -42,9 +42,16 @@
 <br>
 
 ## 📊모델링
-분류분석 모델 Logistic Regression, LSVC, RandomForestClassifier 3가지를 실행했을 때 정확도가 0.914로 가장 높은 LSVC 모델 선택
+분류분석 모델 Logistic Regression, LSVC, RandomForestClassifier 3가지를 실행했을 때 예측 정확도가 0.914로 가장 높은 LSVC 모델 선택
 <p>
-  <img src="https://github.com/ghgrnrdud/Python_Project_HSCZ/assets/153475197/b28e904a-bbae-4f42-876d-cb64cb0210d5" width="550" height="350">
+  <img src="https://github.com/ghgrnrdud/Python_Project_HSCZ/assets/153475197/b28e904a-bbae-4f42-876d-cb64cb0210d5" width="500" height="300">
+</p>
+<br>
+
+## 🔎결과
+이 모델을 통한 최종 시스템 : 사용자가 수출입 하고자하는 제품의 설명을 입력하면 모델을 통해 제품의 설명과 가장 유사한 HS 코드 3가지를 예측하고 순위를 매겨 사용자에게 추천하는 시스템
+<p>
+  <img src="https://github.com/ghgrnrdud/Python_Project_HSCZ/assets/153475197/431aeee2-19ad-4ac9-8480-ce87256296ab" width="500" height="300">
 </p>
 
 
