@@ -53,5 +53,8 @@
 <p>
   <img src="https://github.com/ghgrnrdud/Python_Project_HSCZ/assets/153475197/431aeee2-19ad-4ac9-8480-ce87256296ab" width="500" height="300">
 </p>
+<br>
 
-
+# 개발 기간 & 인원
+> 2024.04 ~ 2024.05 <br>
+> 이현서, 오지현, 심세현, 전하늘, 강민서
